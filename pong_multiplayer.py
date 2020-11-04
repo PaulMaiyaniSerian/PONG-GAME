@@ -32,7 +32,7 @@ MAIN_WINDOW = pygame.display.set_mode(SCREEN)
 
 
 # title
-pygame.display.set_caption("PAULS PONG GAME")
+pygame.display.set_caption("PAUL'S PONG GAME")
 
 # is running
 running = True

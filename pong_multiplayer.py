@@ -1,3 +1,4 @@
+# pong by paul serian maiyani
 import pygame
 from random import randrange, randint
 import sys

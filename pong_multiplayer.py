@@ -16,8 +16,8 @@ OVER =(255,12, 12)
 
 colors = [WHITE, GREEN, RED, YELLOW, OLIVE, BLUE, MAROON]
 # velocities
-BALL_VEL_X = 9
-BALL_VEL_Y = 9
+BALL_VEL_X = 15
+BALL_VEL_Y = 15
 PADDLE_VEL = 7
 
 pygame.init()
